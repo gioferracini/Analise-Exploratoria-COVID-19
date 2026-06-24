@@ -57,7 +57,7 @@ O objetivo é identificar padrões, tendências e relações entre casos, óbito
 * Gráficos de linha;
 * Correlações entre variáveis;
 * Heatmaps;
-* Gráficos interativos com Plotly.
+* Gráficos interativos com Matplotlib.
 
 ### 🔎 Exploração dos Dados
 
