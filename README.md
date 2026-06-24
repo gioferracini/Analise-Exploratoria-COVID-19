@@ -14,7 +14,6 @@ O objetivo é identificar padrões, tendências e relações entre casos, óbito
 * Python para análise de dados
 * Manipulação e tratamento de dados com Pandas
 * Visualização de dados com Matplotlib
-* Visualizações interativas com Plotly
 * Análise exploratória (EDA)
 * Correlação entre variáveis
 * Storytelling com dados
