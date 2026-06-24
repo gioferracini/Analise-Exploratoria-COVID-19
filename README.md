@@ -1,61 +1,101 @@
-# 🦠 Exploratory Data Analysis (EDA) on COVID-19 (2019–May 2022)
+# 🦠 Análise Exploratória da COVID-19 (2019–2022) — Projeto Python
+*Python • Pandas • Matplotlib • Plotly • Análise de Dados*
 
-This project made in June 2022 presents an exploratory data analysis of the global COVID-19 pandemic, covering the period from the initial outbreak in late 2019 through May 2022. The analysis aims to uncover trends, patterns, and insights using data visualization and statistics.
+![Header](Imagens/header.png)
 
----
+Desenvolvido em 2022, este projeto realiza uma análise exploratória da pandemia global da COVID-19, abrangendo o período entre dezembro de 2019 e maio de 2022.
 
-## 📁 Dataset
-
-- **Period**: December 2019 – May 2022
-- **Main variables**: 
-  - Daily new cases & deaths
-  - Vaccination rates
-  - Total of population
+O objetivo é identificar padrões, tendências e relações entre casos, óbitos, vacinação e características populacionais, utilizando técnicas de análise de dados e visualização.
 
 ---
 
-## 📌 Objectives
+## 🧠 Principais Habilidades
 
-- Understand the spread and impact of COVID-19 across different countries
-- Compare case/death trends by continent
-- Analyze the effect of vaccination rollouts
-- Explore correlations between testing, restrictions, and case trends
-- Visualize key turning points of the pandemic
-
----
-
-## 📊 Tools & Libraries
-
-- Python 3.x
-- pandas
-- matplotlib
-- colab google
+* Python para análise de dados
+* Manipulação e tratamento de dados com Pandas
+* Visualização de dados com Matplotlib
+* Visualizações interativas com Plotly
+* Análise exploratória (EDA)
+* Correlação entre variáveis
+* Storytelling com dados
 
 ---
 
-## 📈 Key Visualizations
+## 📂 Base de Dados
 
-- New cases and deaths per million (daily and cumulative)
-- Vaccination progress over time by region
-- Case fatality rate evolution
-- Correlation heatmaps between variables
-- Interactive plots with Plotly
+### Informações analisadas
 
----
+* Casos diários e acumulados;
+* Óbitos por milhão de habitantes;
+* Vacinação ao longo do tempo;
+* População dos países;
+* Indicadores relacionados à pandemia.
 
-## 📂 Project Structure
+### Período analisado
 
-- Coronavirus daily data
-- Information about vaccination
-- Population of each country
+📅 Dezembro de 2019 a Maio de 2022
 
 ---
 
-## 📬 Contact
+## 📊 Principais Análises Desenvolvidas
 
-- Email: gioferracini97@gmail.com
-- LinkedIn: [linkedin.com/in/giovanni-ferracini](https://www.linkedin.com/in/giovanni-ferracini/)
+### 🌎 Evolução da Pandemia
+
+* Crescimento de casos por país e continente;
+* Evolução dos óbitos;
+* Comparações regionais.
+
+### 💉 Vacinação
+
+* Evolução da vacinação;
+* Comparações entre países;
+* Relação entre vacinação e indicadores da doença.
+
+### 📈 Visualizações
+
+* Séries temporais;
+* Gráficos de linha;
+* Correlações entre variáveis;
+* Heatmaps;
+* Gráficos interativos com Plotly.
+
+### 🔎 Exploração dos Dados
+
+* Tendências da pandemia;
+* Relações entre variáveis;
+* Pontos de inflexão ao longo dos anos;
+* Comparações entre continentes.
 
 ---
 
-⭐ If you found this analysis useful or insightful, feel free to star the repository!
+## 🛠 Ferramentas Utilizadas
+
+* Python
+* Pandas
+* Matplotlib
+* Plotly
+* Google Colab
+
+---
+
+## 📁 Estrutura do Projeto
+
+```text
+Notebook.ipynb
+Base de Casos Diários
+Dados de Vacinação
+População dos Países
+README.md
+```
+
+---
+
+## 🚀 Como Utilizar
+
+1. Abra o notebook no Google Colab ou Jupyter Notebook;
+2. Execute as células sequencialmente;
+3. Explore as análises e visualizações desenvolvidas.
+
+---
+
+⭐ Projeto desenvolvido para fins de estudo e composição de portfólio em Análise de Dados.
